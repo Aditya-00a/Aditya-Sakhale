@@ -1,4 +1,3 @@
-# Aditya-Sakhale
 # 👋 Hi there, I'm Aditya Sakhale
 
 Welcome to my GitHub!
