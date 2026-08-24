@@ -1,63 +1,70 @@
-# 👋 Hi, I'm Aditya Sakhale
+<div align="center">
 
-**Risk Analytics | Fixed Income | Machine Learning**
+# Aditya Sakhale
 
-I'm a graduate student at **NYU School of Professional Studies**, specializing in **Management and Business Analytics** with a focus on **financial risk modeling and quantitative finance**.
+### Enterprise AI Systems · AI Agents · Evaluation · Applied ML
 
-I build production-grade systems that combine **machine learning with traditional finance** — from credit risk scoring models to fixed income portfolio engines. My work spans probability of default modeling, stablecoin risk monitoring, and treasury risk analytics.
+I build AI systems for real workflows—agents that can use tools, operate within clear boundaries, and produce evidence a human can review.
+
+**Founder, [ASION.ai](https://www.asion.ai/)** · **MS, Management & Analytics — NYU** · **New York**
+
+[ASION.ai](https://www.asion.ai/) · [LinkedIn](https://www.linkedin.com/in/aditya-sakhale/)
+
+</div>
 
 ---
 
-## 🎯 Focus Areas
+## What I work on
 
+- **AI agents for consequential workflows** — systems that retrieve evidence, call tools, coordinate specialist agents, and stop when human judgment is required.
+- **Evaluation and AI safety** — prompt-injection testing, deterministic checks, policy-grounded evaluation, release gates, and observable failure modes.
+- **Human-controlled automation** — approval checkpoints, audit trails, least-privilege access, and clear ownership around AI actions.
+- **Applied AI products** — useful systems across enterprise operations, education, financial services, compliance, and risk.
+
+## Selected work
+
+| Project | What it demonstrates |
+|---|---|
+| **[ShieldBench](https://github.com/Aditya-00a/shieldbench)** · [Live demo](https://shieldbench.asion.ai/) | AI-agent attack simulator and guardrail benchmark for prompt injection. Separates model attack-success rate from detector precision and recall. |
+| **[Instaply](https://github.com/Aditya-00a/Instaply)** | Local-first job-application agent using Python, Ollama, and Playwright, with user control and privacy built into the workflow. |
+| **[MMASION](https://github.com/Aditya-00a/mmasion)** | Live AI supervision layer: Gemma performs the task while Gemini-based monitors observe, interrupt, and explain risky behavior. |
+| **[SENTINEL](https://github.com/Aditya-00a/sentinel)** | Multi-agent behavioral intelligence system with trajectory, context, intervention, and effectiveness agents plus human review. |
+| **[StudentGraderAI](https://github.com/Aditya-00a/StudentGraderAI)** | Rubric-aware AI grading portal that analyzes GitHub repositories and uploaded files using Gemini or local Ollama models. |
+| **[Stablecoin Risk Monitoring](https://github.com/Aditya-00a/Nedsi_demo)** | Ensemble anomaly detection with LLM-generated, model-risk-aware explanations for stablecoin monitoring. |
+
+## How I build
+
+```text
+Define the decision boundary
+        ↓
+Build inside real data, permission, and workflow constraints
+        ↓
+Evaluate quality, safety, and failure behavior
+        ↓
+Keep the human in control and transfer the evidence
 ```
-Credit Risk Modeling     ██████████████████░░  90%
-Fixed Income Analytics   █████████████████░░░  85%
-Machine Learning/NLP     ████████████████░░░░  80%
-Market Risk & VaR        ███████████████░░░░░  75%
-```
+
+My default is not “add a chatbot.” It is to identify the decision being improved, make unsupported behavior visible, and leave behind a system another team can operate and defend.
+
+## Tools I use
+
+**AI and agents:** Gemini, Gemma, Llama, Ollama, multi-agent orchestration, retrieval, structured outputs  
+**Engineering:** Python, TypeScript, Next.js, React, FastAPI, Playwright, Docker  
+**Evaluation:** attack simulation, deterministic test harnesses, policy checks, human review, audit trails  
+**Data and modeling:** SQL, Pandas, NumPy, scikit-learn, XGBoost, time-series and risk analytics
+
+## Domain depth
+
+My background in analytics and model risk shapes how I build AI: named owners, explicit constraints, measurable performance, documented limitations, and evidence that survives beyond the demo.
+
+Earlier work includes fixed-income analytics, credit-risk modeling, treasury intelligence, ESG risk, and stablecoin monitoring. Those projects remain available in my repositories; the work I am pushing forward now is trustworthy enterprise AI.
 
 ---
 
-## 🛠️ Technical Stack
+<div align="center">
 
-| Category | Tools |
-|----------|-------|
-| **Languages** | Python, SQL, R |
-| **ML/Data** | Scikit-learn, XGBoost, Pandas, NumPy |
-| **Finance** | Bloomberg, QuantLib, Nelson-Siegel Modeling |
-| **Visualization** | Tableau, Power BI, Plotly, Matplotlib |
-| **Other** | Git, Docker, APIs, Web Scraping |
+### Building AI that can act—and can prove why it should be trusted.
 
----
+[Explore ASION](https://www.asion.ai/) · [See my repositories](https://github.com/Aditya-00a?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/aditya-sakhale/)
 
-## 📊 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**Credit Risk Scoring Model**](https://github.com/Aditya-00a/credit-risk-model) | ML-based PD model with credit ratings (AAA-D), ROC-AUC 0.71 |
-| **Fixed Income Risk Engine** | Yield curves, duration/convexity, VaR (3 methods), stress testing |
-| **Stablecoin Risk Monitor** | Real-time AI monitoring for $184B USDT ecosystem |
-| **News-Based Treasury Risk** | NLP pipeline for treasury risk signals from 450+ news sources |
-| **ESG Credit Impact Model** | ESG scoring framework with credit rating adjustments |
-
----
-
-## 📍 About Me
-
-- 🎓 **NYU SPS** — MS in Management & Business Analytics (May 2025)
-- 🏢 **President** — Management & Analytics Professional Society (200+ members)
-- 📍 **Location** — New York City
-- ✨ **Fun Fact** — Co-founded a tech studio during undergrad
-
----
-
-## 📬 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-aditya.sakhale%40nyu.edu-red?style=flat-square&logo=gmail)](mailto:aditya.sakhale@nyu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adityasakhale/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square&logo=google-chrome)](https://your-portfolio-url.com)
-
----
-
-*"Turning financial complexity into actionable insights through data and code."*
+</div>
